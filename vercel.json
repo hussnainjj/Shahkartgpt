@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/data/products.json",
+      "destination": "https://shahkartgpt-production.up.railway.app/data/products.json"
+    }
+  ]
+}
