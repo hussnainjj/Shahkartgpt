@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Basmati Rice (5kg)", "price": 1850, "category": "Groceries", "img": "https://images.unsplash.com/photo-1604908554049-005c465d23ce?q=80&w=800&auto=format&fit=crop" },
+  { "id": 2, "name": "Men's Cotton Kurta", "price": 2200, "category": "Fashion", "img": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=800&auto=format&fit=crop" },
+  { "id": 3, "name": "Cooking Oil (1L)", "price": 590, "category": "Groceries", "img": "https://images.unsplash.com/photo-1542442818-7f8b12d1f505?q=80&w=800&auto=format&fit=crop" },
+  { "id": 4, "name": "Bluetooth Earbuds", "price": 2990, "category": "Electronics", "img": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=800&auto=format&fit=crop" },
+  { "id": 5, "name": "Ladies Sandals", "price": 1750, "category": "Fashion", "img": "https://images.unsplash.com/photo-1582683460146-4e37e9c75784?q=80&w=800&auto=format&fit=crop" },
+  { "id": 6, "name": "Local Honey (500g)", "price": 980, "category": "Local Special", "img": "https://images.unsplash.com/photo-1495651779359-881fde1808f8?q=80&w=800&auto=format&fit=crop" },
+  { "id": 7, "name": "Vegetable Basket", "price": 1290, "category": "Groceries", "img": "https://images.unsplash.com/photo-1516684732162-798a0062be99?q=80&w=800&auto=format&fit=crop" },
+  { "id": 8, "name": "Phone Charger (Fast)", "price": 850, "category": "Electronics", "img": "https://images.unsplash.com/photo-1596903697282-3b1921d08f3f?q=80&w=800&auto=format&fit=crop" }
+]
